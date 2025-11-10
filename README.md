@@ -3,7 +3,7 @@
 <!-- ========================================================== -->
 
 <p align="center">
-  <img src="./ins.png" alt="Kasun Pramodya" width="150">
+  <img src="./inter.jpg" alt="Kasun Pramodya" width="500">
 </p>
 
 <h1 align="center">👨‍💻 Vision-Based PCB Fault Analyzer with Adaptive Feedback</h1>
